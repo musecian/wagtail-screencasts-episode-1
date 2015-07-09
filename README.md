@@ -2,8 +2,7 @@
 It contains all the files used in the making of the screencasts: "how to setup wagtail on windows".
 
 # Contents
-1. A vagrant file
-  Create a folder called wagtail-vm in drive C and copy this file inside.
+- A vagrant file: Create a folder called wagtail-vm in drive C and copy this file inside.
 
 # Commands mentioned in the screencast
 - Navigating to the wagtail-vm folder in drive C using the git bash terminal.
