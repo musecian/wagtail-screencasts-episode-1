@@ -33,4 +33,4 @@ It contains all the files used in the making of the screencasts: "how to setup w
 - Virtualenvwrapper: https://virtualenvwrapper.readthedocs.org/en/latest/index.html
 
 # Extras:
-- To use the Git bash terminal as I am using it in the tutorial. You can check out this(https://scotch.io/tutorials/get-a-functional-and-sleek-console-in-windows) tutorial that shows how to setup ConEmu with gitbash.
+- To use the Git bash terminal as I am using it in the tutorial. You can check out [this](https://scotch.io/tutorials/get-a-functional-and-sleek-console-in-windows) tutorial that shows how to setup ConEmu with gitbash.
